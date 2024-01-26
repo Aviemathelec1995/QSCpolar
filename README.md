@@ -1,1 +1,1 @@
-Code Repository for simulate recovery of compressed quantum using Polar Code. Follow the paper "" for more details.
+Code Repository to simulate the recovery of compressed quantum state using Polar Code. Follow the paper "" for more details.
